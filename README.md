@@ -1,5 +1,3 @@
-#BSDCan
-
 *BSDCan About*
 
 **What is BSDCan?**
