@@ -12,3 +12,6 @@ that appeals to a wide range of people from novices to advanced developers.
 
 The 2026 details are available here: https://www.bsdcan.org/2026/
 
+**Where?**
+
+BSDCan is held in the Desmarais building at the University of Ottawa (55 Laurier Ave. East in Ottawa, Ontario)
