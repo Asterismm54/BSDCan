@@ -3,18 +3,6 @@
 **What is BSDCan?**
 
 BSDCan is an annual conference dedicated to all flavours of the Berkeley Software Distribution. 
-It is held at the University of Ottawa in Ottawa, Canada each year and quickly established itself as the technical conference 
+It is held in Canada each year and quickly established itself as the technical conference 
 for people working on and with BSD based operating systems and related projects. The organizers have found a fantastic formula 
 that appeals to a wide range of people from novices to advanced developers. 
-
-
-**When?**
-
-The 2026 details are available here: https://www.bsdcan.org/2026/
-
-Tutorials: June 17-18, 2026
-Conference: June 19-20, 2026
-
-**Where?**
-
-BSDCan is held in the Desmarais building at the University of Ottawa (55 Laurier Ave. East in Ottawa, Ontario)
